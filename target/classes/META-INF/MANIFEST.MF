@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 9.0.1
+Implementation-Title: SSM Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: 20180522
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
